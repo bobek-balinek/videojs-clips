@@ -1,0 +1,14 @@
+{
+  "name": "videojs-clips",
+  "version": "0.0.1",
+  "main": "videoPlayer.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "underscore": "1.4.4",
+    "video-js": "~0.0.1"
+  }
+}
